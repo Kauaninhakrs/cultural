@@ -1,4 +1,4 @@
-const perguntas = [
+export const perguntas = [
     {
         enunciado: "Como a inclusão de estudos no currículo escolar pode impactar os alunos?",
         alternativas: [
